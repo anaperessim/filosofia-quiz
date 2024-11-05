@@ -1,0 +1,43 @@
+[
+    {
+        "question": "1. O que você acredita ser a melhor forma de entender o mundo?",
+    
+        "a": "Observações e experiências.",
+        "b": "Ideias e conceitos."
+    },
+    {
+        "question": "2. Como você prefere resolver problemas?",
+        "a": "Testando na prática.",
+        "b": "Usando lógica e raciocínio."
+    },
+    {
+        "question": "3. O que você valoriza mais em uma discussão?",
+        "a": "Exemplos e experiências pessoais.",
+        "b": "Argumentos e teorias."
+    },
+    {
+        "question": "4. Você acha que o aprendizado é melhor feito?",
+        "a": "Através da prática.",
+        "b": "Estudando teorias."
+    },
+    {
+        "question": "5. O que você acha mais importante no processo de aprendizado?",
+        "a": "Experiências concretas e evidências sensoriais.",
+        "b": "Teorias e conceitos que podemos entender pela razão."
+    },
+    {
+        "question": "6. Como você se sente ao aprender algo novo?",
+        "a": "Gosto de experimentar.",
+        "b": "Prefiro entender a teoria."
+    },
+    {
+        "question": "7. O que é mais importante para você?",
+        "a": "O que eu posso ver e tocar.",
+        "b": "O que eu posso raciocinar."
+    },
+    {
+        "question": "8. Na sua opinião, qual é a melhor maneira de adquirir conhecimento?",
+        "a": "Através de vivências e experiências.",
+        "b": "Por meio de leitura e reflexão."
+    }
+]
