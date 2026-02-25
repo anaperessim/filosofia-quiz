@@ -28,7 +28,10 @@ O usuário responde perguntas e descobre se possui um perfil mais empirista ou r
 
 1. Baixe ou clone este repositório
 2. Abra o arquivo `index.html` no navegador
+   
+Ou também pode acessar o projeto online:
 
+👉 https://anaperessim.github.io/filosofia-quiz/
 ---
 
 ## 📚 Contexto do projeto
