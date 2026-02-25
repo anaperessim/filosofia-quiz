@@ -36,7 +36,9 @@ O usuário responde perguntas e descobre se possui um perfil mais empirista ou r
 Este quiz foi criado como parte de um trabalho escolar para aplicar conceitos de lógica de programação e manipulação do DOM com JavaScript.
 
 
+## 📸 Preview
 
+![Preview do projeto](preview.png)
 ---
 
 ## 👩‍💻 Autora
